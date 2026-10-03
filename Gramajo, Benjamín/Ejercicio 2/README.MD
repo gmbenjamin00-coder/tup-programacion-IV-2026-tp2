@@ -1,1 +1,1 @@
-# Ejercicio 2 - lista de tareas
+# Ejercicio 2 - Lista de tareas

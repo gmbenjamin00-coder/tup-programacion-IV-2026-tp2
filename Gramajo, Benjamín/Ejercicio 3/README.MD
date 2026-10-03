@@ -1,1 +1,1 @@
-# Ejercicio 2 - Calificaciones de alumnos
+# Ejercicio 2 - Calificaciones de Alumnos

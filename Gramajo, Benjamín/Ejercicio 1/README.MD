@@ -1,1 +1,1 @@
-# Ejercicio 1 - Rectángulos
+# Ejercicio 1 - Administración de Rectángulos
